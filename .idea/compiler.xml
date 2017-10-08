@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="CS441__main" target="1.7" />
+      <module name="CS441__test" target="1.7" />
+      <module name="CS441_HW2__main" target="1.7" />
+      <module name="CS441_HW2__test" target="1.7" />
+      <module name="CS441_HW2_Final_main" target="1.7" />
+      <module name="CS441_HW2_Final_test" target="1.7" />
+      <module name="CS441_main" target="1.7" />
+      <module name="CS441_test" target="1.7" />
+      <module name="george_poulos_hw2_main" target="1.7" />
+      <module name="george_poulos_hw2_test" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

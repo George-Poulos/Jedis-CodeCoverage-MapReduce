@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="redis.clients.jedis.tests.KeyMergeUtilTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-10-08T19:52:03" hostname="Georges-MacBook-Pro.local" time="0.007">
+  <properties/>
+  <testcase name="testMergeBinaryKeys" classname="redis.clients.jedis.tests.KeyMergeUtilTest" time="0.005"/>
+  <testcase name="testMergeStringKeys" classname="redis.clients.jedis.tests.KeyMergeUtilTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

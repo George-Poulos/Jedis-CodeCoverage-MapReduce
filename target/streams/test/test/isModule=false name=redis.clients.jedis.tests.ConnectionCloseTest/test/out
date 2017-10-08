@@ -1,0 +1,6 @@
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mConnectionCloseTest[0m.[36mcheckUnkownHost[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mConnectionCloseTest[0m.[36mcheckUnkownHost[0m finished, took 0.041 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mConnectionCloseTest[0m.[36mcheckWrongPort[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mConnectionCloseTest[0m.[36mcheckWrongPort[0m finished, took 0.016 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 2 total, 0.076s[0m[0m

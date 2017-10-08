@@ -1,0 +1,8 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/George/IdeaProjects/CS441_HW2_Final/src/test/resources/cert.pem,/Users/George/IdeaProjects/CS441_HW2_Final/target/scala-2.12/test-classes/cert.pem)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/George/IdeaProjects/CS441_HW2_Final/src/test/resources/log4j2.xml,/Users/George/IdeaProjects/CS441_HW2_Final/target/scala-2.12/test-classes/log4j2.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/George/IdeaProjects/CS441_HW2_Final/src/test/resources/MySimpson.png,/Users/George/IdeaProjects/CS441_HW2_Final/target/scala-2.12/test-classes/MySimpson.png)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/George/IdeaProjects/CS441_HW2_Final/src/test/resources/private.pem,/Users/George/IdeaProjects/CS441_HW2_Final/target/scala-2.12/test-classes/private.pem)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/George/IdeaProjects/CS441_HW2_Final/src/test/resources/redismodule.h,/Users/George/IdeaProjects/CS441_HW2_Final/target/scala-2.12/test-classes/redismodule.h)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/George/IdeaProjects/CS441_HW2_Final/src/test/resources/testmodule.c,/Users/George/IdeaProjects/CS441_HW2_Final/target/scala-2.12/test-classes/testmodule.c)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/George/IdeaProjects/CS441_HW2_Final/src/test/resources/truststore.jceks,/Users/George/IdeaProjects/CS441_HW2_Final/target/scala-2.12/test-classes/truststore.jceks)[0m

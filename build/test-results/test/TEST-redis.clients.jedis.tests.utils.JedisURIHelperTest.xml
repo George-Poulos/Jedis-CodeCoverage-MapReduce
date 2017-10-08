@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="redis.clients.jedis.tests.utils.JedisURIHelperTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-10-08T19:52:03" hostname="Georges-MacBook-Pro.local" time="0.012">
+  <properties/>
+  <testcase name="shouldGetDbFromURIWithoutCredentials" classname="redis.clients.jedis.tests.utils.JedisURIHelperTest" time="0.005"/>
+  <testcase name="shouldGetPasswordFromURIWithCredentials" classname="redis.clients.jedis.tests.utils.JedisURIHelperTest" time="0.002"/>
+  <testcase name="shouldReturnNullIfURIDoesNotHaveCredentials" classname="redis.clients.jedis.tests.utils.JedisURIHelperTest" time="0.001"/>
+  <testcase name="shouldGetDefaultDbFromURIIfNoDbWasSpecified" classname="redis.clients.jedis.tests.utils.JedisURIHelperTest" time="0.001"/>
+  <testcase name="shouldGetDbFromURIWithCredentials" classname="redis.clients.jedis.tests.utils.JedisURIHelperTest" time="0.001"/>
+  <testcase name="shouldValidateInvalidURIs" classname="redis.clients.jedis.tests.utils.JedisURIHelperTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

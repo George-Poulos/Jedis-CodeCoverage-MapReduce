@@ -1,0 +1,12 @@
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mShardedJedisTest[0m.[36mtestMD5Sharding[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mShardedJedisTest[0m.[36mtestMD5Sharding[0m finished, took 0.171 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mShardedJedisTest[0m.[36mcheckKeyTags[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mShardedJedisTest[0m.[36mcheckKeyTags[0m finished, took 0.011 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mShardedJedisTest[0m.[36mtestMasterSlaveShardingConsistencyWithShardNaming[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mShardedJedisTest[0m.[36mtestMasterSlaveShardingConsistencyWithShardNaming[0m finished, took 0.022 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mShardedJedisTest[0m.[36mtestMurmurSharding[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mShardedJedisTest[0m.[36mtestMurmurSharding[0m finished, took 0.006 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mShardedJedisTest[0m.[36mcheckSharding[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mShardedJedisTest[0m.[36mcheckSharding[0m finished, took 0.007 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mShardedJedisTest[0m.[36mtestMasterSlaveShardingConsistency[0m started[0m

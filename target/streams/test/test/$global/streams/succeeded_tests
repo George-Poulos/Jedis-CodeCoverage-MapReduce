@@ -1,0 +1,16 @@
+#Successful Tests
+#Sun Oct 08 14:58:53 CDT 2017
+redis.clients.jedis.tests.TupleTest=1507492732462
+redis.clients.jedis.tests.KeyMergeUtilTest=1507492732585
+redis.clients.jedis.tests.TupleTestNew=1507492732762
+redis.clients.jedis.tests.ShardedJedisTest=1507492732961
+redis.clients.jedis.tests.JedisMonitorTest=1507492732820
+redis.clients.jedis.tests.JedisSentinelPoolTest=1507492732767
+redis.clients.jedis.tests.BuilderFactoryTest=1507492732461
+redis.clients.jedis.tests.ProtocolTest=1507492732667
+redis.clients.jedis.tests.ConnectionTest=1507492732683
+redis.clients.jedis.tests.ConnectionCloseTest=1507492732687
+redis.clients.jedis.tests.HostAndPortTest=1507492732487
+redis.clients.jedis.tests.collections.SetFromListTest=1507492732826
+redis.clients.jedis.tests.utils.JedisURIHelperTest=1507492732463
+redis.clients.jedis.tests.utils.JedisClusterCRC16Test=1507492732557

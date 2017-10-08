@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="redis.clients.jedis.tests.ShardedJedisTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-10-08T19:52:03" hostname="Georges-MacBook-Pro.local" time="0.089">
+  <properties/>
+  <testcase name="testMD5Sharding" classname="redis.clients.jedis.tests.ShardedJedisTest" time="0.041"/>
+  <testcase name="checkKeyTags" classname="redis.clients.jedis.tests.ShardedJedisTest" time="0.009"/>
+  <testcase name="testMasterSlaveShardingConsistencyWithShardNaming" classname="redis.clients.jedis.tests.ShardedJedisTest" time="0.024"/>
+  <testcase name="testMurmurSharding" classname="redis.clients.jedis.tests.ShardedJedisTest" time="0.005"/>
+  <testcase name="checkSharding" classname="redis.clients.jedis.tests.ShardedJedisTest" time="0.002"/>
+  <testcase name="testMasterSlaveShardingConsistency" classname="redis.clients.jedis.tests.ShardedJedisTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

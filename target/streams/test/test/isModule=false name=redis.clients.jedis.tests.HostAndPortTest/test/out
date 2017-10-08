@@ -1,0 +1,18 @@
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mHostAndPortTest[0m.[36mcheckExtractParts[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mHostAndPortTest[0m.[36mcheckExtractParts[0m finished, took 0.029 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mHostAndPortTest[0m.[36mcheckParseString[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mHostAndPortTest[0m.[36mcheckParseString[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mHostAndPortTest[0m.[36mequals[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mHostAndPortTest[0m.[36mequals[0m finished, took 0.005 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mHostAndPortTest[0m.[36mgetLocalhost[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mHostAndPortTest[0m.[36mgetLocalhost[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mHostAndPortTest[0m.[36mcheckParseStringWithoutPort[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mHostAndPortTest[0m.[36mcheckParseStringWithoutPort[0m finished, took 0.005 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mHostAndPortTest[0m.[36msetLocalhost[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mHostAndPortTest[0m.[36msetLocalhost[0m finished, took 0.004 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mHostAndPortTest[0m.[36mgetLocalhostQuietly[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mHostAndPortTest[0m.[36mgetLocalhostQuietly[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mHostAndPortTest[0m.[36mcheckConvertHost[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mHostAndPortTest[0m.[36mcheckConvertHost[0m finished, took 0.005 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 8 total, 0.089s[0m[0m

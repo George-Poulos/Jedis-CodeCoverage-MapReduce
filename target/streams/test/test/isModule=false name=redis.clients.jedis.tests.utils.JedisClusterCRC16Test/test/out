@@ -1,0 +1,4 @@
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.utils.[33mJedisClusterCRC16Test[0m.[36mtestGetCRC16[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.utils.[33mJedisClusterCRC16Test[0m.[36mtestGetCRC16[0m finished, took 0.012 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.utils.[33mJedisClusterCRC16Test[0m.[36mtestGetSlot[0m started[0m

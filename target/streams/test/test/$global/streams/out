@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(redis.clients.jedis.tests.TupleTest, com.novocode.junit.JUnitFingerprint@4e820d, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(redis.clients.jedis.tests.utils.JedisURIHelperTest, com.novocode.junit.JUnitFingerprint@4e820d, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(redis.clients.jedis.tests.HostAndPortTest, com.novocode.junit.JUnitFingerprint@4e820d, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(redis.clients.jedis.tests.BuilderFactoryTest, com.novocode.junit.JUnitFingerprint@4e820d, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(redis.clients.jedis.tests.utils.JedisClusterCRC16Test, com.novocode.junit.JUnitFingerprint@4e820d, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(redis.clients.jedis.tests.KeyMergeUtilTest, com.novocode.junit.JUnitFingerprint@4e820d, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(redis.clients.jedis.tests.ProtocolTest, com.novocode.junit.JUnitFingerprint@4e820d, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(redis.clients.jedis.tests.ConnectionCloseTest, com.novocode.junit.JUnitFingerprint@4e820d, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(redis.clients.jedis.tests.ConnectionTest, com.novocode.junit.JUnitFingerprint@4e820d, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(redis.clients.jedis.tests.ShardedJedisTest, com.novocode.junit.JUnitFingerprint@4e820d, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(redis.clients.jedis.tests.JedisSentinelPoolTest, com.novocode.junit.JUnitFingerprint@4e820d, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(redis.clients.jedis.tests.TupleTestNew, com.novocode.junit.JUnitFingerprint@4e820d, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(redis.clients.jedis.tests.collections.SetFromListTest, com.novocode.junit.JUnitFingerprint@4e820d, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(redis.clients.jedis.tests.JedisMonitorTest, com.novocode.junit.JUnitFingerprint@4e820d, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for JUnit not available.[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 51, Failed 0, Errors 0, Passed 51[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	redis.clients.jedis.tests.JedisSentinelPoolTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	redis.clients.jedis.tests.BuilderFactoryTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	redis.clients.jedis.tests.JedisMonitorTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	redis.clients.jedis.tests.utils.JedisClusterCRC16Test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	redis.clients.jedis.tests.KeyMergeUtilTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	redis.clients.jedis.tests.collections.SetFromListTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	redis.clients.jedis.tests.ProtocolTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	redis.clients.jedis.tests.ConnectionCloseTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	redis.clients.jedis.tests.HostAndPortTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	redis.clients.jedis.tests.TupleTestNew[0m
+[0m[[0m[0mdebug[0m] [0m[0m	redis.clients.jedis.tests.utils.JedisURIHelperTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	redis.clients.jedis.tests.ConnectionTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	redis.clients.jedis.tests.ShardedJedisTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	redis.clients.jedis.tests.TupleTest[0m
