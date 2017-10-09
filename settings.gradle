@@ -1,1 +1,3 @@
 rootProject.name = 'CS441_HW2_Final'
+
+includeBuild 'map-reduce'

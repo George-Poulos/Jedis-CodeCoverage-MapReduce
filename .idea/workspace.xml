@@ -1,10 +1,563 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b13493cc-7f0d-467c-83a8-6812c4e214e6" name="Default" comment="" />
+    <list default="true" id="b13493cc-7f0d-467c-83a8-6812c4e214e6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/map-reduce/map-reduce.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__asm_asm_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_2_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_16_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_inject_extensions_guice_servlet_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_inject_guice_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_protobuf_protobuf_java_2_5_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jamesmurty_utils_java_xmlbuilder_0_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jcraft_jsch_0_1_51.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_nimbusds_nimbus_jose_jwt_3_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_jersey_contribs_jersey_guice_1_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_jersey_jersey_client_1_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_jersey_jersey_core_1_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_jersey_jersey_json_1_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_jersey_jersey_server_1_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_thoughtworks_paranamer_paranamer_2_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_beanutils_commons_beanutils_1_7_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_beanutils_commons_beanutils_core_1_8_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_cli_commons_cli_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_collections_commons_collections_3_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_configuration_commons_configuration_1_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_digester_commons_digester_1_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_io_commons_io_2_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_lang_commons_lang_2_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_net_commons_net_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_3_7_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_activation_activation_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_servlet_jsp_jsp_api_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_servlet_servlet_api_2_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_xml_bind_jaxb_api_2_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_xml_stream_stax_api_1_0_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__jline_jline_0_9_94.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__log4j_log4j_1_2_17.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_java_dev_jets3t_jets3t_0_9_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_jcip_jcip_annotations_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_minidev_json_smart_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_avro_avro_1_7_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_compress_1_4_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_math3_3_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_curator_curator_client_2_7_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_curator_curator_framework_2_7_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_curator_curator_recipes_2_7_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_directory_api_api_asn1_api_1_0_0_M20.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_directory_api_api_util_1_0_0_M20.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_directory_server_apacheds_i18n_2_0_0_M15.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_hadoop_hadoop_annotations_2_8_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_hadoop_hadoop_auth_2_8_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_hadoop_hadoop_common_2_8_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_hadoop_hadoop_mapreduce_client_core_2_8_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_hadoop_hadoop_yarn_api_2_8_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_hadoop_hadoop_yarn_common_2_8_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_htrace_htrace_core4_4_0_1_incubating.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_zookeeper_zookeeper_3_4_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_jackson_jackson_jaxrs_1_9_13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_jackson_jackson_xc_1_9_13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_jettison_jettison_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mortbay_jetty_jetty_6_1_26.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mortbay_jetty_jetty_sslengine_6_1_26.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mortbay_jetty_jetty_util_6_1_26.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mortbay_jetty_servlet_api_2_5_20081211.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_log4j12_1_7_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_sonatype_sisu_inject_cglib_2_2_1_v20090111.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_tukaani_xz_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_xerial_snappy_snappy_java_1_0_4_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__xmlenc_xmlenc_0_52.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjkkedepo_0_wzk98b_j8j6098d.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjkkedepo_0_y9599u_j8j6098d.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjmjfhguw_3_wzk98b_j8j60999.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjmjfhguw_3_y9599u_j8j60999.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjmjfhgvk_1_wzk98b_j8j60995.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjmjfhgvk_1_y9599u_j8j60995.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjmjfhgvu_2_wzk98b_j8j60998.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjmjfhgvu_2_y9599u_j8j60998.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjoigliru_4_wzk98b_j8j6099i.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjoigliru_4_y9599u_j8j6099i.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjoiglirx_5_wzk98b_j8j6099s.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjoiglirx_5_y9599u_j8j6099s.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjqhhpkht_6_wzk98b_j8j609a1.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjqhhpkht_6_y9599u_j8j609a1.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjqhhpkhw_7_wzk98b_j8j609a3.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjqhhpkhw_7_y9599u_j8j609a3.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjsgitmng_8_wzk98b_j8j609a8.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjsgitmng_8_y9599u_j8j609a8.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjsgitmnw_9_wzk98b_j8j609b3.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjsgitmnw_9_y9599u_j8j609b3.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjsgitmo2_c_wzk98b_j8j609bf.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjsgitmo2_c_y9599u_j8j609bf.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjsgitmo5_f_wzk98b_j8j609bo.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjsgitmo5_f_y9599u_j8j609bo.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjsgitmo8_d_wzk98b_j8j609bh.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjsgitmo8_d_y9599u_j8j609bh.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjsgitmoe_b_wzk98b_j8j609bc.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjsgitmoe_b_y9599u_j8j609bc.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjsgitmom_e_wzk98b_j8j609bj.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjsgitmom_e_y9599u_j8j609bj.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjsgitmos_a_wzk98b_j8j609ba.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjsgitmos_a_y9599u_j8j609ba.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjufjxomd_h_y9599u_j8j609bu.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjufjxomi_g_y9599u_j8j609bt.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjwel1qkk_j_wzk98b_j8j609d3.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjwel1qkk_j_y9599u_j8j609d3.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjwel1qkq_i_wzk98b_j8j609cm.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjwel1qkq_i_y9599u_j8j609cm.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjydm5sma_k_wzk98b_j8j609d9.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjydm5sma_k_y9599u_j8j609d9.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjydm5sml_l_wzk98b_j8j609de.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vjydm5sml_l_y9599u_j8j609de.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk0cn9ump_s_wzk98b_j8j609dy.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk0cn9ump_s_y9599u_j8j609dy.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk0cn9un5_n_wzk98b_j8j609dk.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk0cn9un5_n_y9599u_j8j609dk.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk0cn9und_v_wzk98b_j8j609e4.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk0cn9und_v_y9599u_j8j609e4.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk0cn9unh_u_wzk98b_j8j609e2.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk0cn9unh_u_y9599u_j8j609e2.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk0cn9unl_m_wzk98b_j8j609dj.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk0cn9unl_m_y9599u_j8j609dj.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk0cn9unp_q_wzk98b_j8j609dr.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk0cn9unp_q_y9599u_j8j609dr.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk0cn9unt_o_wzk98b_j8j609dn.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk0cn9unt_o_y9599u_j8j609dn.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk0cn9unx_r_wzk98b_j8j609du.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk0cn9unx_r_y9599u_j8j609du.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk0cn9uo6_t_wzk98b_j8j609e0.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk0cn9uo6_t_y9599u_j8j609e0.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk0cn9uoa_p_wzk98b_j8j609do.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk0cn9uoa_p_y9599u_j8j609do.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk2bodwe8_10_wzk98b_j8j609gg.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk2bodwe8_10_y9599u_j8j609gg.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk2bodweh_x_wzk98b_j8j609fe.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk2bodweh_x_y9599u_j8j609fe.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk2bodwf4_w_wzk98b_j8j609ea.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk2bodwf4_w_y9599u_j8j609ea.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk2bodwfx_z_wzk98b_j8j609gb.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk2bodwfx_z_y9599u_j8j609gb.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk2bodwgq_11_wzk98b_j8j609gj.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk2bodwgq_11_y9599u_j8j609gj.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk2bodwh7_y_wzk98b_j8j609fn.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk2bodwh7_y_y9599u_j8j609fn.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk4aphyk8_12_wzk98b_j8j609gs.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk4aphyk8_12_y9599u_j8j609gs.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk4aphyke_13_wzk98b_j8j609gw.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk4aphyke_13_y9599u_j8j609gw.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk69qm0b2_14_wzk98b_j8j609h4.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk69qm0b2_14_y9599u_j8j609h4.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk69qm0b7_15_wzk98b_j8j609h8.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk69qm0b7_15_y9599u_j8j609h8.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk88rq2am_17_wzk98b_j8j609hs.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk88rq2am_17_y9599u_j8j609hs.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk88rq2ap_18_wzk98b_j8j609ht.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk88rq2ap_18_y9599u_j8j609ht.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk88rq2as_1a_wzk98b_j8j609hw.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk88rq2as_1a_y9599u_j8j609hw.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk88rq2av_16_wzk98b_j8j609ho.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk88rq2av_16_y9599u_j8j609ho.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk88rq2ay_19_wzk98b_j8j609hv.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk88rq2ay_19_y9599u_j8j609hv.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk88rq2b1_1b_wzk98b_j8j609hx.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test1up8vk88rq2b1_1b_y9599u_j8j609hx.s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-testwzk98b_j8j6098u" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/.clover/clover.db-testy9599u_j8j6098c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/clover.instrumented" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/BinaryClient$__CLR4_2_030x30xj8j5u5it.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/BinaryJedis$__CLR4_2_06xl6xlj8j5u5wt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/BinaryJedisCluster$__CLR4_2_03rp3rpj8j5u5lo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/BinaryJedisPubSub$__CLR4_2_02tp2tpj8j5u5ga.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/BinaryShardedJedis$__CLR4_2_02hq2hqj8j5u5fz.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/BitPosParams$__CLR4_2_01ws1wsj8j5u5cr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/BuilderFactory$__CLR4_2_06hy6hyj8j5u5u0.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/Client$__CLR4_2_01c01c0j8j5u5c9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/Connection$__CLR4_2_09v9vj8j5u56w.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/DebugParams$__CLR4_2_07x97x9j8j5u5xi.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/GeoCoordinate$__CLR4_2_03d3dj8j5u544.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/GeoRadiusResponse$__CLR4_2_05u15u1j8j5u5qo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/GeoUnit$__CLR4_2_05d5dj8j5u567.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/HostAndPort$__CLR4_2_02w42w4j8j5u5gj.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/Jedis$__CLR4_2_0fnfnj8j5u58z.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/JedisCluster$__CLR4_2_01x01x0j8j5u5eo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/JedisClusterCommand$__CLR4_2_04fj4fjj8j5u5mh.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/JedisClusterConnectionHandler$__CLR4_2_06ug6ugj8j5u5uf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/JedisClusterInfoCache$__CLR4_2_03mr3mrj8j5u5js.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/JedisFactory$__CLR4_2_07z87z8j8j5u5xt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/JedisMonitor$__CLR4_2_07t27t2j8j5u5x3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/JedisPool$__CLR4_2_05r35r3j8j5u5qh.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/JedisPoolAbstract$__CLR4_2_01wk1wkj8j5u5cp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/JedisPoolConfig$__CLR4_2_09q9qj8j5u56j.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/JedisPubSub$__CLR4_2_05f5fj8j5u56h.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/JedisSentinelPool$__CLR4_2_05uw5uwj8j5u5r6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/JedisShardInfo$__CLR4_2_06pr6prj8j5u5ua.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/JedisSlotBasedConnectionHandler$__CLR4_2_06vj6vjj8j5u5ul.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/Module$__CLR4_2_03kx3kxj8j5u5ja.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/MultiKeyPipelineBase$__CLR4_2_04rv4rvj8j5u5nv.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/Pipeline$__CLR4_2_000j8j5u53o.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/PipelineBase$__CLR4_2_0515515j8j5u5ps.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/Protocol$__CLR4_2_07ta7taj8j5u5xf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/Queable$__CLR4_2_05uf5ufj8j5u5qu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/Response$__CLR4_2_01vb1vbj8j5u5cm.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/ScanParams$__CLR4_2_02m2mj8j5u53x.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/ScanResult$__CLR4_2_03kk3kkj8j5u5j6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/ShardedJedis$__CLR4_2_05zg5zgj8j5u5s1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/ShardedJedisPipeline$__CLR4_2_05o25o2j8j5u5q2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/ShardedJedisPool$__CLR4_2_04dw4dwj8j5u5ma.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/SortingParams$__CLR4_2_03lr3lrj8j5u5je.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/Transaction$__CLR4_2_06g26g2j8j5u5sf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/Tuple$__CLR4_2_04l74l7j8j5u5my.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/ZParams$__CLR4_2_0818818j8j5u5xw.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/exceptions/InvalidURIException$__CLR4_2_06hg6hgj8j5u5si.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/exceptions/JedisAskDataException$__CLR4_2_04l14l1j8j5u5mu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/exceptions/JedisBusyException$__CLR4_2_04v4vj8j5u54j.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/exceptions/JedisClusterCrossSlotException$__CLR4_2_06hs6hsj8j5u5sv.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/exceptions/JedisClusterException$__CLR4_2_05151j8j5u54m.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/exceptions/JedisClusterMaxRedirectionsException$__CLR4_2_06hm6hmj8j5u5sm.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/exceptions/JedisConnectionException$__CLR4_2_04p4pj8j5u54g.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/exceptions/JedisDataException$__CLR4_2_06vd6vdj8j5u5ui.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/exceptions/JedisException$__CLR4_2_01bu1buj8j5u59i.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/exceptions/JedisExhaustedPoolException$__CLR4_2_01bo1boj8j5u59d.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/exceptions/JedisMovedDataException$__CLR4_2_05757j8j5u54o.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/exceptions/JedisNoReachableClusterNodeException$__CLR4_2_0fhfhj8j5u575.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/exceptions/JedisNoScriptException$__CLR4_2_05tv5tvj8j5u5qk.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/exceptions/JedisRedirectionException$__CLR4_2_04949j8j5u54d.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/params/Params$__CLR4_2_05ov5ovj8j5u5q4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/params/geo/GeoRadiusParam$__CLR4_2_05ps5psj8j5u5q8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/params/set/SetParams$__CLR4_2_02xy2xyj8j5u5gn.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/params/sortedset/ZAddParams$__CLR4_2_02z02z0j8j5u5gr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/jedis/params/sortedset/ZIncrByParams$__CLR4_2_03jw3jwj8j5u5j2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/util/Hashing$__CLR4_2_04co4coj8j5u5m4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/util/IOUtils$__CLR4_2_04fc4fcj8j5u5mc.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/util/JedisByteHashMap$__CLR4_2_01t51t5j8j5u5cj.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/util/JedisClusterCRC16$__CLR4_2_02zu2zuj8j5u5hg.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/util/JedisClusterHashTagUtil$__CLR4_2_06wp6wpj8j5u5un.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/util/JedisURIHelper$__CLR4_2_04d34d3j8j5u5m7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/util/KeyMergeUtil$__CLR4_2_06x96x9j8j5u5uo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/util/MurmurHash$__CLR4_2_081l81lj8j5u5y3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/util/Pool$__CLR4_2_04ij4ijj8j5u5mq.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/util/RedisInputStream$__CLR4_2_06bs6bsj8j5u5s9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/util/RedisOutputStream$__CLR4_2_04n24n2j8j5u5nf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/util/SafeEncoder$__CLR4_2_06fh6fhj8j5u5sb.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/util/ShardInfo$__CLR4_2_06pm6pmj8j5u5u3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/util/Sharded$__CLR4_2_07xo7xoj8j5u5xn.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/redis/clients/util/Slowlog$__CLR4_2_0esesj8j5u570.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/clover.instrumented" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/BuilderFactoryTest$__CLR4_2_0at6at6j8j5u7gs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/ConnectionCloseTest$__CLR4_2_092j92jj8j5u749.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/ConnectionTest$1TestConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/ConnectionTest$__CLR4_2_085t85tj8j5u6wx.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/HostAndPortTest$__CLR4_2_08u98u9j8j5u729.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/JedisClusterTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/JedisClusterTest$__CLR4_2_0ahwahwj8j5u7gg.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/JedisPoolTest$1CrashingJedis.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/JedisPoolTest$1CrashingJedisPooledObjectFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/JedisPoolTest$__CLR4_2_0brdbrdj8j5u7nk.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/JedisSentinelPoolTest$__CLR4_2_0atyatyj8j5u7h8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/JedisSentinelTest$__CLR4_2_0a15a15j8j5u7cm.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/JedisTest$__CLR4_2_083h83hj8j5u6wf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/KeyMergeUtilTest$__CLR4_2_091j91jj8j5u73z.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/ModuleTest$ModuleCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/ModuleTest$__CLR4_2_08v18v1j8j5u72e.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/PipeliningTest$__CLR4_2_0a3ha3hj8j5u7e5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/ProtocolTest$__CLR4_2_09fv9fvj8j5u77m.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/SSLJedisTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/SSLJedisTest$BasicHostnameVerifier.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/SSLJedisTest$__CLR4_2_086n86nj8j5u6xn.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/ShardedJedisPipelineTest$__CLR4_2_08z08z0j8j5u73t.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/ShardedJedisPoolTest$__CLR4_2_0bh4bh4j8j5u7lh.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/ShardedJedisTest$__CLR4_2_08ic8icj8j5u70m.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/TupleTest$__CLR4_2_0925925j8j5u746.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/collections/SetFromListTest$__CLR4_2_0c8cc8cj8j5u7qx.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/AllKindOfValuesCommandsTest$__CLR4_2_0b4cb4cj8j5u7kw.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/AllKindOfValuesCommandsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/BinaryValuesCommandsTest$__CLR4_2_0awoawoj8j5u7ib.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/BinaryValuesCommandsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/BitCommandsTest$__CLR4_2_0bxdbxdj8j5u7o5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/BitCommandsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/ClusterBinaryJedisCommandsTest$__CLR4_2_0aeqaeqj8j5u7er.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/ClusterBinaryJedisCommandsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/ClusterCommandsTest$__CLR4_2_0c0gc0gj8j5u7ol.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/ClusterCommandsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/ClusterScriptingCommandsTest$__CLR4_2_0cficfij8j5u7rr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/ClusterScriptingCommandsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/ConnectionHandlingCommandsTest$__CLR4_2_08vf8vfj8j5u72h.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/ConnectionHandlingCommandsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/ControlCommandsTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/ControlCommandsTest$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/ControlCommandsTest$__CLR4_2_0ct0ct0j8j5u7tn.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/ControlCommandsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/GeoCommandsTest$__CLR4_2_092y92yj8j5u75b.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/GeoCommandsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/HashesCommandsTest$__CLR4_2_08av8avj8j5u6zi.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/HashesCommandsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/HyperLogLogCommandsTest$__CLR4_2_08rk8rkj8j5u71t.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/HyperLogLogCommandsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/ListCommandsTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/ListCommandsTest$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/ListCommandsTest$__CLR4_2_0ciuciuj8j5u7t6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/ListCommandsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/ObjectCommandsTest$__CLR4_2_08tr8trj8j5u720.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/ObjectCommandsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/PublishSubscribeCommandsTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/PublishSubscribeCommandsTest$10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/PublishSubscribeCommandsTest$11.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/PublishSubscribeCommandsTest$12.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/PublishSubscribeCommandsTest$13.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/PublishSubscribeCommandsTest$14.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/PublishSubscribeCommandsTest$15.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/PublishSubscribeCommandsTest$16.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/PublishSubscribeCommandsTest$17.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/PublishSubscribeCommandsTest$18.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/PublishSubscribeCommandsTest$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/PublishSubscribeCommandsTest$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/PublishSubscribeCommandsTest$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/PublishSubscribeCommandsTest$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/PublishSubscribeCommandsTest$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/PublishSubscribeCommandsTest$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/PublishSubscribeCommandsTest$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/PublishSubscribeCommandsTest$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/PublishSubscribeCommandsTest$__CLR4_2_0c2mc2mj8j5u7qm.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/PublishSubscribeCommandsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/ScriptingCommandsTest$__CLR4_2_0b0yb0yj8j5u7iv.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/ScriptingCommandsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/SetCommandsTest$__CLR4_2_0979979j8j5u76u.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/SetCommandsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/SlowlogCommandsTest$__CLR4_2_0at9at9j8j5u7gv.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/SlowlogCommandsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/SortedSetCommandsTest$__CLR4_2_09ho9hoj8j5u7bu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/SortedSetCommandsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/SortingCommandsTest$__CLR4_2_0bmbbmbj8j5u7mf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/SortingCommandsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/StringValuesCommandsTest$__CLR4_2_08vk8vkj8j5u73b.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/StringValuesCommandsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/TransactionCommandsTest$__CLR4_2_0c9rc9rj8j5u7rc.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/TransactionCommandsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/VariadicCommandsTest$__CLR4_2_08ok8okj8j5u71a.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/commands/VariadicCommandsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/utils/JedisClusterCRC16Test$__CLR4_2_0asqasqj8j5u7gp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/redis/clients/jedis/tests/utils/JedisURIHelperTest$__CLR4_2_08ab8abj8j5u6xu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.JedisClusterTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.JedisPoolTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.JedisSentinelTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.JedisTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.ModuleTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.PipeliningTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.SSLJedisTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.ShardedJedisPipelineTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.ShardedJedisPoolTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.commands.AllKindOfValuesCommandsTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.commands.BinaryValuesCommandsTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.commands.BitCommandsTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.commands.ClusterBinaryJedisCommandsTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.commands.ClusterCommandsTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.commands.ClusterScriptingCommandsTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.commands.ConnectionHandlingCommandsTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.commands.ControlCommandsTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.commands.GeoCommandsTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.commands.HashesCommandsTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.commands.HyperLogLogCommandsTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.commands.ListCommandsTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.commands.ObjectCommandsTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.commands.PublishSubscribeCommandsTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.commands.ScriptingCommandsTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.commands.SetCommandsTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.commands.SlowlogCommandsTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.commands.SortedSetCommandsTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.commands.SortingCommandsTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.commands.StringValuesCommandsTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.commands.TransactionCommandsTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.commands.VariadicCommandsTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/redis.clients.jedis.tests.commands.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.JedisClusterTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.JedisPoolTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.JedisSentinelTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.JedisTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.ModuleTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.PipeliningTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.SSLJedisTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.ShardedJedisPipelineTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.ShardedJedisPoolTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.commands.AllKindOfValuesCommandsTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.commands.BinaryValuesCommandsTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.commands.BitCommandsTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.commands.ClusterBinaryJedisCommandsTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.commands.ClusterCommandsTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.commands.ClusterScriptingCommandsTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.commands.ConnectionHandlingCommandsTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.commands.ControlCommandsTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.commands.GeoCommandsTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.commands.HashesCommandsTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.commands.HyperLogLogCommandsTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.commands.ListCommandsTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.commands.ObjectCommandsTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.commands.PublishSubscribeCommandsTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.commands.ScriptingCommandsTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.commands.SetCommandsTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.commands.SlowlogCommandsTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.commands.SortedSetCommandsTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.commands.SortingCommandsTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.commands.StringValuesCommandsTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.commands.TransactionCommandsTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.commands.VariadicCommandsTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_1062298607864752879_tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_1506473764157014360_tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_1569807459836230172_tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_1999703324702897961_tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_2000185612397530499_tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_4540870169305106758_tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_589811938447332478_tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_6623946789607914835_tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_7327098404025616378_tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/test/jar_extract_7344573856819154364_tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2a71068ca995772e6bac$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2a71068ca995772e6bac.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2a71068ca995772e6bac.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$559125409b4bf4023ecc$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$559125409b4bf4023ecc.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$559125409b4bf4023ecc.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$78576a0c9ade1f183de8$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$78576a0c9ade1f183de8.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$78576a0c9ade1f183de8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$7d5f55320aa2f971db2e$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$7d5f55320aa2f971db2e.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$7d5f55320aa2f971db2e.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$852c88080302cbf56eb4$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$852c88080302cbf56eb4.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$852c88080302cbf56eb4.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileContent/fileContent.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/.clover/clover.db" afterPath="$PROJECT_DIR$/build/.clover/clover.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/.clover/clover.db-test" afterPath="$PROJECT_DIR$/build/.clover/clover.db-test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/libs/CS441_HW2_Final-2.9.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/build/libs/CS441_HW2_Final-2.9.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterPath="$PROJECT_DIR$/target/streams/test/compileIncSetup/$global/streams/inc_compile_2.12.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileContent/annotation-processors.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileContent/annotation-processors.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/CS441_HW2_Final_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/CS441_HW2_Final_main.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/CS441_HW2_Final_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/CS441_HW2_Final_test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sbt" afterPath="$PROJECT_DIR$/build.sbt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/clover/clover.xml" afterPath="$PROJECT_DIR$/build/reports/clover/clover.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.BuilderFactoryTest.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.BuilderFactoryTest.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.ConnectionCloseTest.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.ConnectionCloseTest.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.ConnectionTest.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.ConnectionTest.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.HostAndPortTest.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.HostAndPortTest.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.JedisMonitorTest.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.JedisMonitorTest.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.JedisSentinelPoolTest.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.JedisSentinelPoolTest.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.KeyMergeUtilTest.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.KeyMergeUtilTest.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.ProtocolTest.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.ProtocolTest.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.ShardedJedisTest.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.ShardedJedisTest.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.TupleTest.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.TupleTest.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.TupleTestNew.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.TupleTestNew.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.collections.SetFromListTest.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.collections.SetFromListTest.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.utils.JedisClusterCRC16Test.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.utils.JedisClusterCRC16Test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.utils.JedisURIHelperTest.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/redis.clients.jedis.tests.utils.JedisURIHelperTest.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/redis.clients.jedis.tests.collections.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/redis.clients.jedis.tests.collections.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/redis.clients.jedis.tests.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/redis.clients.jedis.tests.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/redis.clients.jedis.tests.utils.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/redis.clients.jedis.tests.utils.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.BuilderFactoryTest.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.BuilderFactoryTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.ConnectionCloseTest.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.ConnectionCloseTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.ConnectionTest.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.ConnectionTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.HostAndPortTest.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.HostAndPortTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.JedisMonitorTest.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.JedisMonitorTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.JedisSentinelPoolTest.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.JedisSentinelPoolTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.KeyMergeUtilTest.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.KeyMergeUtilTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.ProtocolTest.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.ProtocolTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.ShardedJedisTest.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.ShardedJedisTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.TupleTest.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.TupleTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.TupleTestNew.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.TupleTestNew.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.collections.SetFromListTest.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.collections.SetFromListTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.utils.JedisClusterCRC16Test.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.utils.JedisClusterCRC16Test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.utils.JedisURIHelperTest.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-redis.clients.jedis.tests.utils.JedisURIHelperTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/george_poulos_hw2/george_poulos_hw2_2.12/2.9.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/george_poulos_hw2/george_poulos_hw2_2.12/2.9.0-SNAPSHOT/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/george_poulos_hw2/george_poulos_hw2_2.12/2.9.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/george_poulos_hw2/george_poulos_hw2_2.12/2.9.0-SNAPSHOT/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/george_poulos_hw2-george_poulos_hw2_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/george_poulos_hw2-george_poulos_hw2_2.12-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/george_poulos_hw2-george_poulos_hw2_2.12-compile.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/george_poulos_hw2-george_poulos_hw2_2.12-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/george_poulos_hw2-george_poulos_hw2_2.12-optional.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/george_poulos_hw2-george_poulos_hw2_2.12-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/george_poulos_hw2-george_poulos_hw2_2.12-plugin.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/george_poulos_hw2-george_poulos_hw2_2.12-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/george_poulos_hw2-george_poulos_hw2_2.12-pom.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/george_poulos_hw2-george_poulos_hw2_2.12-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/george_poulos_hw2-george_poulos_hw2_2.12-provided.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/george_poulos_hw2-george_poulos_hw2_2.12-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/george_poulos_hw2-george_poulos_hw2_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/george_poulos_hw2-george_poulos_hw2_2.12-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/george_poulos_hw2-george_poulos_hw2_2.12-runtime.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/george_poulos_hw2-george_poulos_hw2_2.12-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/george_poulos_hw2-george_poulos_hw2_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/george_poulos_hw2-george_poulos_hw2_2.12-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/george_poulos_hw2-george_poulos_hw2_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/george_poulos_hw2-george_poulos_hw2_2.12-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/george_poulos_hw2-george_poulos_hw2_2.12-test.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/george_poulos_hw2-george_poulos_hw2_2.12-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/test/compileIncremental/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/test/test/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/$global/streams/succeeded_tests" afterPath="$PROJECT_DIR$/target/streams/test/test/$global/streams/succeeded_tests" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.BuilderFactoryTest/test/out" afterPath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.BuilderFactoryTest/test/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.ConnectionCloseTest/test/out" afterPath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.ConnectionCloseTest/test/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.ConnectionTest/test/out" afterPath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.ConnectionTest/test/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.HostAndPortTest/test/out" afterPath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.HostAndPortTest/test/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.JedisMonitorTest/test/out" afterPath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.JedisMonitorTest/test/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.JedisSentinelPoolTest/test/out" afterPath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.JedisSentinelPoolTest/test/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.KeyMergeUtilTest/test/out" afterPath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.KeyMergeUtilTest/test/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.ProtocolTest/test/out" afterPath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.ProtocolTest/test/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.ShardedJedisTest/test/out" afterPath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.ShardedJedisTest/test/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.TupleTest/test/out" afterPath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.TupleTest/test/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.TupleTestNew/test/out" afterPath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.TupleTestNew/test/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.collections.SetFromListTest/test/out" afterPath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.collections.SetFromListTest/test/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.utils.JedisClusterCRC16Test/test/out" afterPath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.utils.JedisClusterCRC16Test/test/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.utils.JedisURIHelperTest/test/out" afterPath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=redis.clients.jedis.tests.utils.JedisURIHelperTest/test/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.BuilderFactoryTest.xml" afterPath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.BuilderFactoryTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.ConnectionCloseTest.xml" afterPath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.ConnectionCloseTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.ConnectionTest.xml" afterPath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.ConnectionTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.HostAndPortTest.xml" afterPath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.HostAndPortTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.JedisMonitorTest.xml" afterPath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.JedisMonitorTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.JedisSentinelPoolTest.xml" afterPath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.JedisSentinelPoolTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.KeyMergeUtilTest.xml" afterPath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.KeyMergeUtilTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.ProtocolTest.xml" afterPath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.ProtocolTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.ShardedJedisTest.xml" afterPath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.ShardedJedisTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.TupleTest.xml" afterPath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.TupleTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.TupleTestNew.xml" afterPath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.TupleTestNew.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.collections.SetFromListTest.xml" afterPath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.collections.SetFromListTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.utils.JedisClusterCRC16Test.xml" afterPath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.utils.JedisClusterCRC16Test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.utils.JedisURIHelperTest.xml" afterPath="$PROJECT_DIR$/target/test-reports/redis.clients.jedis.tests.utils.JedisURIHelperTest.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/library/.gradle/" />
+    <ignored path="$PROJECT_DIR$/library/build/" />
+    <ignored path="$PROJECT_DIR$/map/.gradle/" />
+    <ignored path="$PROJECT_DIR$/map/build/" />
+    <ignored path="$PROJECT_DIR$/map-reduce/.gradle/" />
+    <ignored path="$PROJECT_DIR$/map-reduce/build/" />
+    <ignored path="$PROJECT_DIR$/map-reduce/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,71 +572,57 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HashingBenchmark.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/redis/clients/jedis/tests/benchmark/HashingBenchmark.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PipelinedGetSetBenchmark.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/redis/clients/jedis/tests/benchmark/PipelinedGetSetBenchmark.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PoolBenchmark.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/redis/clients/jedis/tests/benchmark/PoolBenchmark.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProtocolBenchmark.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/redis/clients/jedis/tests/benchmark/ProtocolBenchmark.java">
+      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+              <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SafeEncoderBenchmark.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/redis/clients/jedis/tests/benchmark/SafeEncoderBenchmark.java">
+      <file leaf-file-name="MapReduce.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/map-reduce/src/MapReduce.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="855">
+              <caret line="68" column="34" lean-forward="false" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="34" />
+              <folding>
+                <element signature="e#2570#2571#0" expanded="true" />
+                <element signature="e#2618#2619#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShardedBenchmark.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/redis/clients/jedis/tests/benchmark/ShardedBenchmark.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="493">
+                <caret line="48" column="95" lean-forward="false" selection-start-line="48" selection-start-column="95" selection-end-line="48" selection-end-column="95" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JedisCommandTestBase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/redis/clients/jedis/tests/commands/JedisCommandTestBase.java">
+      <file leaf-file-name="XMLToCSV.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/map-reduce/src/XMLToCSV.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="229">
+              <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,28 +630,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build.sbt">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="353">
+              <caret line="64" column="1" lean-forward="false" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+        <entry file="file://$PROJECT_DIR$/map-reduce/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+            <state relative-caret-position="855">
+              <caret line="57" column="34" lean-forward="false" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="plugins.sbt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/map-reduce/settings.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -122,6 +661,24 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lines</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>lineNumber</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -148,6 +705,10 @@
               <ExternalProjectPojo>
                 <option name="name" value="CS441_HW2_Final" />
                 <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="map-reduce" />
+                <option name="path" value="$PROJECT_DIR$/map-reduce" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -312,6 +873,288 @@
             </list>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/library">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':library'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':library'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Aggregates Clover code coverage databases for the project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="cloverAggregateDatabases" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':library'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':library'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':library'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':library'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':library'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Clover code coverage report." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="cloverGenerateReport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':library'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':library'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/map">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':map'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':map'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Aggregates Clover code coverage databases for the project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map" />
+                <option name="name" value="cloverAggregateDatabases" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':map'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':map'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':map'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':map'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':map'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Clover code coverage report." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map" />
+                <option name="name" value="cloverGenerateReport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':map'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':map'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/map-reduce">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':map-reduce'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':map-reduce'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':map-reduce'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':map-reduce'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="compile" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':map-reduce'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':map-reduce'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':map-reduce'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':map-reduce'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the 'archives' artifacts into the local Maven repository." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="install" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':map-reduce'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/map-reduce" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="modificationStamps">
@@ -320,8 +1163,10 @@
         <entry key="$USER_HOME$/Downloads/BoofCV-SNAPSHOT/examples" value="39120225248000" />
         <entry key="$USER_HOME$/Downloads/Mundus-master" value="7455589580000" />
         <entry key="$USER_HOME$/Downloads/Terasology-develop" value="19558043726000" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="1068170397" />
-        <entry key="$PROJECT_DIR$/settings.gradle" value="2867415558" />
+        <entry key="$PROJECT_DIR$" value="6030021757000" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="379071165" />
+        <entry key="$PROJECT_DIR$/map-reduce/build.gradle" value="1022675635" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="3633345192" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -341,6 +1186,45 @@
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/library">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bmuschko/gradle-clover-plugin/2.1.3/195bf38c66045033db8899ea2897c86f6daa4ed5/gradle-clover-plugin-2.1.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bmuschko/gradle-clover-plugin/2.1.3/2aacc31beef07a283dd22a4d233f331cb973f376/gradle-clover-plugin-2.1.3.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/library" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/map">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bmuschko/gradle-clover-plugin/2.1.3/195bf38c66045033db8899ea2897c86f6daa4ed5/gradle-clover-plugin-2.1.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bmuschko/gradle-clover-plugin/2.1.3/2aacc31beef07a283dd22a4d233f331cb973f376/gradle-clover-plugin-2.1.3.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/map" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/map-reduce">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bmuschko/gradle-clover-plugin/2.1.3/195bf38c66045033db8899ea2897c86f6daa4ed5/gradle-clover-plugin-2.1.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bmuschko/gradle-clover-plugin/2.1.3/2aacc31beef07a283dd22a4d233f331cb973f376/gradle-clover-plugin-2.1.3.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/map-reduce" />
                       </ExternalModuleBuildClasspathPojo>
                     </value>
                   </entry>
@@ -435,15 +1319,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/settings.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/redis/clients/jedis/tests/JedisTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/redis/clients/jedis/tests/benchmark/GetSetBenchmark.java" />
         <option value="$PROJECT_DIR$/src/test/java/redis/clients/jedis/tests/benchmark/HashingBenchmark.java" />
         <option value="$PROJECT_DIR$/src/test/java/redis/clients/jedis/tests/benchmark/PipelinedGetSetBenchmark.java" />
         <option value="$PROJECT_DIR$/src/test/java/redis/clients/jedis/tests/benchmark/PoolBenchmark.java" />
         <option value="$PROJECT_DIR$/src/test/java/redis/clients/jedis/tests/commands/JedisCommandTestBase.java" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/map-reduce/src/XMLParser.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/map-reduce/build.gradle" />
+        <option value="$PROJECT_DIR$/map-reduce/src/XMLToCSV.java" />
+        <option value="$PROJECT_DIR$/map-reduce/src/MapReduce.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -453,7 +1342,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
@@ -488,6 +1377,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -511,13 +1401,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="george_poulos_hw2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS441_HW2_Final" type="b2602c69:ProjectViewProjectNode" />
               <item name="CS441_HW2_Final" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="george_poulos_hw2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CS441_HW2_Final" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -530,6 +1415,9 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -549,7 +1437,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.XMLToCSV">
+    <configuration name="XMLToCSV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="XMLToCSV" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="map-reduce_main" />
+      <envs />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -642,9 +1544,14 @@
       <properties />
       <listeners />
     </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.XMLToCSV" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1507492015527" />
+    <option name="lastUpdateTimestamp" value="1507517001512" />
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
@@ -659,40 +1566,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507491907645</updated>
-      <workItem from="1507491909044" duration="901000" />
+      <workItem from="1507491909044" duration="20204000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="901000" />
+    <option name="totallyTimeSpent" value="20204000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
+    <frame x="6" y="26" width="1676" height="1027" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39918116" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31422722" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24908425" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33690986" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31330472" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.249694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -701,6 +1608,39 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39918116" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31422722" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24908425" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -709,18 +1649,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/redis/clients/jedis/tests/KeyMergeUtilTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -806,7 +1740,7 @@
         <state relative-caret-position="30">
           <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -859,20 +1793,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/reports/clover/clover.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/redis/clients/jedis/tests/commands/JedisCommandTestBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -885,28 +1811,206 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/map-reduce/map-reduce.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/reports/clover/export.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map-reduce/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map-reduce/build/classes/java/main/XMLToCSV.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map-reduce/build/classes/java/main/MapReduce.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="29" column="26" lean-forward="false" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#3338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/reports/clover/clover.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="67" column="72" lean-forward="false" selection-start-line="67" selection-start-column="64" selection-end-line="67" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/reports/clover/export.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="826" column="36" lean-forward="false" selection-start-line="826" selection-start-column="36" selection-end-line="826" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="240">
+          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map-reduce/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="34" lean-forward="false" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="64" column="1" lean-forward="false" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map-reduce/src/XMLToCSV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/map-reduce/src/MapReduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="68" column="34" lean-forward="false" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="34" />
+          <folding>
+            <element signature="e#2570#2571#0" expanded="true" />
+            <element signature="e#2618#2619#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="493">
+            <caret line="48" column="95" lean-forward="false" selection-start-line="48" selection-start-column="95" selection-end-line="48" selection-end-column="95" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>map-reduce</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: aopalliance:aopalliance:1.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

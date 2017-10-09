@@ -1,22 +1,22 @@
 [0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
 [0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mnullBulkReply[0m started[0m
-[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mnullBulkReply[0m finished, took 0.013 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mnullBulkReply[0m finished, took 0.005 sec[0m
 [0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mwriteOverflow[0m started[0m
-[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mwriteOverflow[0m finished, took 0.003 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mwriteOverflow[0m finished, took 0.002 sec[0m
 [0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mintegerReply[0m started[0m
-[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mintegerReply[0m finished, took 0.0 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mintegerReply[0m finished, took 0.002 sec[0m
 [0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mbusyReply[0m started[0m
-[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mbusyReply[0m finished, took 0.001 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mbusyReply[0m finished, took 0.0 sec[0m
 [0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36msingleLineReply[0m started[0m
-[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36msingleLineReply[0m finished, took 0.032 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36msingleLineReply[0m finished, took 0.004 sec[0m
 [0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mmultiBulkReply[0m started[0m
-[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mmultiBulkReply[0m finished, took 0.013 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mmultiBulkReply[0m finished, took 0.002 sec[0m
 [0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mbuildACommand[0m started[0m
-[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mbuildACommand[0m finished, took 0.006 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mbuildACommand[0m finished, took 0.007 sec[0m
 [0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mnullMultiBulkReply[0m started[0m
-[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mnullMultiBulkReply[0m finished, took 0.001 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mnullMultiBulkReply[0m finished, took 0.003 sec[0m
 [0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mfragmentedBulkReply[0m started[0m
-[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mfragmentedBulkReply[0m finished, took 0.002 sec[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mfragmentedBulkReply[0m finished, took 0.0 sec[0m
 [0m[[0m[0minfo[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mbulkReply[0m started[0m
 [0m[[0m[0mdebug[0m] [0m[0mTest redis.clients.jedis.tests.[33mProtocolTest[0m.[36mbulkReply[0m finished, took 0.001 sec[0m
-[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 10 total, 0.097s[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 10 total, 0.04s[0m[0m

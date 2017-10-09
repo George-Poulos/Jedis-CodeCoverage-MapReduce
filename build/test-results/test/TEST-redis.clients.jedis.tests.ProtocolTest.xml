@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="redis.clients.jedis.tests.ProtocolTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2017-10-08T19:52:03" hostname="Georges-MacBook-Pro.local" time="0.023">
+<testsuite name="redis.clients.jedis.tests.ProtocolTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2017-10-09T03:06:05" hostname="Georges-MacBook-Pro.local" time="0.058">
   <properties/>
-  <testcase name="nullBulkReply" classname="redis.clients.jedis.tests.ProtocolTest" time="0.002"/>
-  <testcase name="writeOverflow" classname="redis.clients.jedis.tests.ProtocolTest" time="0.003"/>
-  <testcase name="integerReply" classname="redis.clients.jedis.tests.ProtocolTest" time="0.001"/>
-  <testcase name="busyReply" classname="redis.clients.jedis.tests.ProtocolTest" time="0.003"/>
-  <testcase name="singleLineReply" classname="redis.clients.jedis.tests.ProtocolTest" time="0.003"/>
-  <testcase name="multiBulkReply" classname="redis.clients.jedis.tests.ProtocolTest" time="0.003"/>
-  <testcase name="buildACommand" classname="redis.clients.jedis.tests.ProtocolTest" time="0.001"/>
-  <testcase name="nullMultiBulkReply" classname="redis.clients.jedis.tests.ProtocolTest" time="0.002"/>
-  <testcase name="fragmentedBulkReply" classname="redis.clients.jedis.tests.ProtocolTest" time="0.001"/>
-  <testcase name="bulkReply" classname="redis.clients.jedis.tests.ProtocolTest" time="0.002"/>
+  <testcase name="nullBulkReply" classname="redis.clients.jedis.tests.ProtocolTest" time="0.011"/>
+  <testcase name="writeOverflow" classname="redis.clients.jedis.tests.ProtocolTest" time="0.01"/>
+  <testcase name="integerReply" classname="redis.clients.jedis.tests.ProtocolTest" time="0.002"/>
+  <testcase name="busyReply" classname="redis.clients.jedis.tests.ProtocolTest" time="0.006"/>
+  <testcase name="singleLineReply" classname="redis.clients.jedis.tests.ProtocolTest" time="0.004"/>
+  <testcase name="multiBulkReply" classname="redis.clients.jedis.tests.ProtocolTest" time="0.005"/>
+  <testcase name="buildACommand" classname="redis.clients.jedis.tests.ProtocolTest" time="0.003"/>
+  <testcase name="nullMultiBulkReply" classname="redis.clients.jedis.tests.ProtocolTest" time="0.003"/>
+  <testcase name="fragmentedBulkReply" classname="redis.clients.jedis.tests.ProtocolTest" time="0.003"/>
+  <testcase name="bulkReply" classname="redis.clients.jedis.tests.ProtocolTest" time="0.003"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

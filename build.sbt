@@ -12,6 +12,16 @@ lazy val dependencies = Seq(
   "org.slf4j" % "slf4j-api" % "1.7.25"
 )
 
+lazy val makeReport = TaskKey[Unit]("makeReport", "Deletes a cache file")
+
+makeReport := {
+  import sys.process._
+  Seq("sbt", "clean", "compile", "test")!
+  import sys.process._
+  Seq("gradle", "clean", "build", "cloverGenerateReport")!
+}
+
+
 lazy val compileSettings = javaSource in Compile := baseDirectory.value / "src" / "main"
 lazy val testSettings = javaSource in Test := baseDirectory.value / "src"  / "test"
 lazy val root = (project in file ("."))

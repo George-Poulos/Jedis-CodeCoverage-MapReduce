@@ -1,136 +1,49 @@
-[![Build Status](https://travis-ci.org/xetorthio/jedis.png?branch=master)](https://travis-ci.org/xetorthio/jedis)
+# George Poulos : CS441 HW2
 
-# Jedis
+#Description
+This Project uses the jedis library located [here](https://github.com/xetorthio/jedis) and runs Junit Tests to 
+create a coverage report. The coverage report is then parsed from XML to CSV using a parser that I created with some 
+guidance from [here](http://www.beingjavaguys.com/2013/06/jdom-xml-parser-in-java.html). After parsing this xml file, 
+I then create a jar of my map-reduce implementation to use on the on an AWS EMR cluster. 
 
-Jedis is a blazingly small and sane [Redis](http://github.com/antirez/redis "Redis") java client.
+##Import Using Intellij
+    1. Create new Project using VCS in Intellij
+    2. Use Gradle when importing project
 
-Jedis was conceived to be EASY to use.
+## Run with .gradle 
+From the project root, do the following
 
-Jedis is fully compatible with redis 2.8.x and 3.x.x.
-
-## Community
-
-Meet us on IRC: ##jedis on freenode.net
-
-Join the mailing-list at [http://groups.google.com/group/jedis_redis](http://groups.google.com/group/jedis_redis)
-
-## So what can I do with Jedis?
-All of the following redis features are supported:
-
-- Sorting
-- Connection handling
-- Commands operating on any kind of values
-- Commands operating on string values
-- Commands operating on hashes
-- Commands operating on lists
-- Commands operating on sets
-- Commands operating on sorted sets
-- Transactions
-- Pipelining
-- Publish/Subscribe
-- Persistence control commands
-- Remote server control commands
-- Connection pooling
-- Sharding (MD5, MurmurHash)
-- Key-tags for sharding
-- Sharding with pipelining
-- Scripting with pipelining
-- Redis Cluster
-
-## How do I use it?
-
-You can download the latest build at: 
-    http://github.com/xetorthio/jedis/releases
-
-Or use it as a maven dependency:
-
-```xml
-<dependency>
-    <groupId>redis.clients</groupId>
-    <artifactId>jedis</artifactId>
-    <version>2.9.0</version>
-    <type>jar</type>
-    <scope>compile</scope>
-</dependency>
-```
-
-To use it just:
+    gradle clean  //clean first
+    gradle build  //build
+    gradle test   //run JUnit tests
+    gradle cloverCoverageReport //makes XML coverage report
+    cd map-reduce //switch project dir
+    gradle jar 
     
-```java
-Jedis jedis = new Jedis("localhost");
-jedis.set("foo", "bar");
-String value = jedis.get("foo");
-```
-
-For more usage examples check the tests.
-
-Please check the [wiki](http://github.com/xetorthio/jedis/wiki "wiki"). There are lots of cool things you should know, including information about connection pooling.
-
-Master branch javadocs can be found here: http://xetorthio.github.io/jedis/
-
-And you are done!
-
-## Jedis Cluster
-
-Redis cluster [specification](http://redis.io/topics/cluster-spec) (still under development) is implemented
-
-```java
-Set<HostAndPort> jedisClusterNodes = new HashSet<HostAndPort>();
-//Jedis Cluster will attempt to discover cluster nodes automatically
-jedisClusterNodes.add(new HostAndPort("127.0.0.1", 7379));
-JedisCluster jc = new JedisCluster(jedisClusterNodes);
-jc.set("foo", "bar");
-String value = jc.get("foo");
-```
-
-## FAQ
-
-- Do you have strange stack traces?
-- You're getting errors when running jedis in multi-threaded environments?
-- Do you need further instructions about pipelining, transactions or sentinel?
-
-Please check the [WIKI](https://github.com/xetorthio/jedis/wiki) for more useful information.
+*NOTE Now you must open Intellij and Run the file located at ./map-reduce/src/XMLToCSV
+This will convert the xml to a easier to read csv file.
 
 
-## I want to contribute!
+##Run with .sbt
+From the project root, do the following
 
-That is great!
+    sbt makeReport //compiles and runs tests also makes coverage report
+    cd map-reduce //switch project dir
+    gradle jar //convert
+    
+*NOTE Now you must open Intellij and Run the file located at `./map-reduce/src/XMLToCSV.java`
+This will convert the xml to a easier to read csv file. The CSV file will be located at 
+*/build/reports/clover/export.csv
 
-Please see [CONTRIBUTING.md](https://github.com/xetorthio/jedis/blob/master/.github/CONTRIBUTING.md) on project's root directory for follow up how to contribute to Jedis project.
+*NOTE Coverage Report is located at `*/build/reports/clover/clover.xml` after running 
+`sbt makeReport`
 
-Thanks for helping!
+*NOTE The map-reduce jar will be located at `*/map-reduce/build/libs/map-reduce.jar`
+    
+##Video 
+My video is located at : [here](https://youtu.be/yJNdwpzEeLM) - https://youtu.be/yJNdwpzEeLM
 
-## Sponsorship
 
-YourKit supports open source projects with its full-featured Java Profiler.
-YourKit, LLC is the creator of [YourKit Java Profiler](http://www.yourkit.com/java/profiler/index.jsp) 
-and [YourKit .NET Profiler](http://www.yourkit.com/.net/profiler/index.jsp),
-innovative and intelligent tools for profiling Java and .NET applications.
-
-![YourKit Logo](https://cloud.githubusercontent.com/assets/1317309/4507430/7119527c-4b0c-11e4-9245-d72e751e26ee.png)
-
-## License
-
-Copyright (c) 2011 Jonathan Leibiusky
-
-Permission is hereby granted, free of charge, to any person
-obtaining a copy of this software and associated documentation
-files (the "Software"), to deal in the Software without
-restriction, including without limitation the rights to use,
-copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the
-Software is furnished to do so, subject to the following
-conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
-OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
-HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
-
+#Limitations
+Some limitations of this implementation are I did not have a chance to automate the whole build using SBT.
+Also, I would like to create a better algorithm to parse the XML to CSV, currently O(n^3) time.

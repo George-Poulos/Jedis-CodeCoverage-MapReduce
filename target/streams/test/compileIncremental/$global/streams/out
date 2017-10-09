@@ -2,8 +2,8 @@
 [0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
 [0m[[0m[0mdebug[0m] [0m[0mRecompiling all 40 sources: invalidated sources (40) exceeded 50.0% of all sources[0m
 [0m[[0m[0minfo[0m] [0m[0mCompiling 40 Java sources to /Users/George/IdeaProjects/CS441_HW2_Final/target/scala-2.12/test-classes ...[0m
-[0m[[0m[0mdebug[0m] [0m[0mAttempting to call com.sun.tools.javac.api.JavacTool@6c9a702a directly...[0m
-[0m[[0m[0mdebug[0m] [0m[0mJava compilation took 1.348268985 s[0m
-[0m[[0m[0mdebug[0m] [0m[0mJava analysis took 0.481657069 s[0m
-[0m[[0m[0mdebug[0m] [0m[0mJava compilation + analysis took 1.841030313 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mAttempting to call com.sun.tools.javac.api.JavacTool@53bb56e8 directly...[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation took 0.62948662 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava analysis took 0.166749581 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation + analysis took 0.797716804 s[0m
 [0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m

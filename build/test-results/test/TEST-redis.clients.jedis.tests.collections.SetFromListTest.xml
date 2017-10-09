@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="redis.clients.jedis.tests.collections.SetFromListTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-10-08T19:52:03" hostname="Georges-MacBook-Pro.local" time="0.006">
+<testsuite name="redis.clients.jedis.tests.collections.SetFromListTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-10-09T03:06:05" hostname="Georges-MacBook-Pro.local" time="0.022">
   <properties/>
-  <testcase name="iteration" classname="redis.clients.jedis.tests.collections.SetFromListTest" time="0.002"/>
-  <testcase name="equals" classname="redis.clients.jedis.tests.collections.SetFromListTest" time="0.001"/>
-  <testcase name="setOperations" classname="redis.clients.jedis.tests.collections.SetFromListTest" time="0.002"/>
+  <testcase name="iteration" classname="redis.clients.jedis.tests.collections.SetFromListTest" time="0.008"/>
+  <testcase name="equals" classname="redis.clients.jedis.tests.collections.SetFromListTest" time="0.006"/>
+  <testcase name="setOperations" classname="redis.clients.jedis.tests.collections.SetFromListTest" time="0.004"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

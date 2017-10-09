@@ -12,6 +12,8 @@
       <module name="CS441_test" target="1.7" />
       <module name="george_poulos_hw2_main" target="1.7" />
       <module name="george_poulos_hw2_test" target="1.7" />
+      <module name="map-reduce_main" target="1.8" />
+      <module name="map-reduce_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

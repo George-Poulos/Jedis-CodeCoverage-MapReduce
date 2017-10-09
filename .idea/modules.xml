@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/CS441_HW2_Final.iml" filepath="$PROJECT_DIR$/.idea/modules/CS441_HW2_Final.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/CS441_HW2_Final_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CS441_HW2_Final_main.iml" group="CS441_HW2_Final" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/CS441_HW2_Final_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CS441_HW2_Final_test.iml" group="CS441_HW2_Final" />
+      <module fileurl="file://$PROJECT_DIR$/map-reduce/map-reduce.iml" filepath="$PROJECT_DIR$/map-reduce/map-reduce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/map-reduce/map-reduce_main.iml" filepath="$PROJECT_DIR$/.idea/modules/map-reduce/map-reduce_main.iml" group="map-reduce" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/map-reduce/map-reduce_test.iml" filepath="$PROJECT_DIR$/.idea/modules/map-reduce/map-reduce_test.iml" group="map-reduce" />
     </modules>
   </component>
 </project>
